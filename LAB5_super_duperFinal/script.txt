@@ -1,0 +1,10 @@
+group_counting_by_name
+insert 11
+Name9
+11.11
+123.34
+
+
+789
+group_counting_by_name
+info
